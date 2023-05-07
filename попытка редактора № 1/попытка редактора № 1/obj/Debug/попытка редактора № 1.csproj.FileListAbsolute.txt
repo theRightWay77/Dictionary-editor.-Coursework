@@ -1,0 +1,10 @@
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\bin\Debug\попытка редактора № 1.exe.config
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\bin\Debug\попытка редактора № 1.exe
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\bin\Debug\попытка редактора № 1.pdb
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка редактора № 1.csproj.AssemblyReference.cache
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка_редактора___1.Form1.resources
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка_редактора___1.Properties.Resources.resources
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка редактора № 1.csproj.GenerateResource.cache
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка редактора № 1.csproj.CoreCompileInputs.cache
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка редактора № 1.exe
+U:\VisualStudio\попытка редактора № 1\попытка редактора № 1\obj\Debug\попытка редактора № 1.pdb
